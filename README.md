@@ -29,5 +29,5 @@ c = a+b
 
 This is a [google](https://www.google.com)
 
-[google img](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
+![google img](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
 
