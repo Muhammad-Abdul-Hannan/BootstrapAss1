@@ -17,3 +17,12 @@ Demo text***
 
 This is a line
 > This is a quotation line
+
+This is sigle line code
+`Import Python`
+This is multi line code
+```
+a = 10
+b = 20
+c = a+b
+```
