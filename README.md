@@ -4,6 +4,9 @@ This is first bootstrap demo site.
 ## Second Heading
 ###### Smallest Heading
 
+This is a line from book1 [^1].
+
+
 
 **Text 1** 
 __Text2__
@@ -26,6 +29,9 @@ a = 10
 b = 20
 c = a+b
 ```
+
+This is a line from book2 [^2].
+
 
 This is a [google](https://www.google.com)
 
@@ -66,3 +72,6 @@ This is a [google](https://www.google.com)
 
 
 <!-- this is a line -->
+
+[^1]: book name 1
+[^2]: book name 2
