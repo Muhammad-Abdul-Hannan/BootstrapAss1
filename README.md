@@ -33,3 +33,15 @@ This is a [google](https://www.google.com)
 
 ![img1](/img1.jpg)
 
+- List1
+- List2
+- List3
+
+* List1
+* List2
+* List3
+
+1. List1
+2. List2
+3. List3
+
