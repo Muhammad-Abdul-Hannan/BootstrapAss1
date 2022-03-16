@@ -45,3 +45,19 @@ This is a [google](https://www.google.com)
 2. List2
 3. List3
 
+1. Fruit
+   - mango
+   - orange
+2. vegetable
+   * Potato
+3. Car
+   - Suzuki
+     * Cultus
+     * Mehran
+     * Swift
+   - Toyota
+   - Honda
+     - City
+     - civic
+
+
