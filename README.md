@@ -39,6 +39,8 @@ This is a [google](https://www.google.com)
 
 ![img1](/img1.jpg)
 
+this is a note [^note].
+
 - List1
 - List2
 - List3
@@ -75,3 +77,6 @@ This is a [google](https://www.google.com)
 
 [^1]: book name 1
 [^2]: book name 2
+[^note]:
+This is note1
+this is a note3
